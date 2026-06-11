@@ -1,0 +1,28 @@
+# Build directories
+build/
+bin/
+obj/
+*.class
+
+# Android / Gradle
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+captures/
+.externalNativeBuild
+.cxx
+local.properties
+
+# AWS CDK / Node.js
+backend/node_modules/
+backend/cdk.out/
+backend/.env
+backend/.DS_Store
+backend/*.log
